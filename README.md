@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi there! My name is Ally (Alysson) and I'm just starting out in the world of programming. Although I'm still new to the field, I enjoy experimenting with code and creating small projects, including game-related tools and cheats.
+Hi there! My name is Alysson (Ally) and I'm just starting out in the world of programming. Although I'm still new to the field, I enjoy experimenting with code and creating small projects, including game-related tools and cheats.
 
 I also work with computer maintenance, including hardware, software installation, and general troubleshooting.
 
@@ -21,10 +21,12 @@ My projects are mostly for learning and exploring new programming languages and 
 
 ## Coding Languages that I like or use regularly:
 
+<div style="text-align: center;">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+</div>
 
 </center>
