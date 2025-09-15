@@ -10,12 +10,11 @@ My projects are mostly for learning and exploring new programming languages and 
 
 ---
 
-## My stats on Github
+## My stats on Github 
 
-<a href="https://github.com/agoniapura">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoniapura&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=agoniapura&show_icons=true&theme=transparent"/>
-</a>
+<div>
+<a href="https://github.com/agoniapura"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoniapura&layout=compact&langs_count=7&theme=transparent"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=agoniapura&show_icons=true&theme=transparent"/> 
+</div>
 
 ---
 
