@@ -1,6 +1,8 @@
-<center>
+<h2 align="center">About me:</h2>
+<br/>
+<div align="center"> 
 
-## About me
+<div align="center">
 
 Hi there! My name is Alysson (Ally) and I'm just starting out in the world of programming. Although I'm still new to the field, I enjoy experimenting with code and creating small projects, including game-related tools and cheats.
 
@@ -10,7 +12,9 @@ My projects are mostly for learning and exploring new programming languages and 
 
 ---
 
-## My stats on Github 
+<h2 align="center">My stats on Github:</h2>
+<br/>
+<div align="center"> 
 
 <div>
 <a href="https://github.com/agoniapura"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoniapura&layout=compact&langs_count=7&theme=transparent"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=agoniapura&show_icons=true&theme=transparent"/> 
