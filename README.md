@@ -2,9 +2,7 @@
 <br/>
 
 <div align="center"> 
-Hi there! My name is Alysson (Ally) and I'm just starting out in the world of programming. Although I'm still new to the field, I enjoy experimenting with code and creating small projects, including game-related tools and cheats.  
-
-I also work with computer maintenance, including hardware, software installation, and general troubleshooting.  
+Hi there! My name is Alysson (Ally) and I'm just starting out in the world of programming. Although I'm still new to the field, I enjoy experimenting with code and creating small projects, including game-related tools and cheats. I also work with computer maintenance, including hardware, software installation, and general troubleshooting.
 
 My projects are mostly for learning and exploring new programming languages and techniques. I use GitHub as a place to practice, experiment, and share what I’m discovering as I grow in programming.  
 </div>
