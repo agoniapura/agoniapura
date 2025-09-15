@@ -1,4 +1,4 @@
-<h2 align="center">About me:</h2>
+<h2 align="center">About me</h2>
 <br/>
 
 <div align="center"> 
@@ -9,7 +9,7 @@ My projects are mostly for learning and exploring new programming languages and 
 
 ---
 
-<h2 align="center">My stats on Github:</h2>
+<h2 align="center">My stats on Github</h2>
 <br/>
 
 <div align="center">
@@ -20,7 +20,7 @@ My projects are mostly for learning and exploring new programming languages and 
 
 ---
 
-<h2 align="center">Coding Languages that I like or use regularly:</h2>
+<h2 align="center">Coding Languages that I like or use regularly</h2>
 <br/>
 
 <div align="center">
