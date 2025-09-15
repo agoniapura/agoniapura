@@ -14,10 +14,11 @@ My projects are mostly for learning and exploring new programming languages and 
 <h2 align="center">My stats on Github:</h2>
 <br/>
 
-<div>
-<a href="https://github.com/agoniapura">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoniapura&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+<div align="center">
+  <a href="https://github.com/agoniapura">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=agoniapura&show_icons=true&theme=transparent"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoniapura&layout=compact&langs_count=7&theme=transparent"/>
+  </a>
 </div>
 
 ---
