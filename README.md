@@ -9,17 +9,6 @@ My projects are mostly for learning and exploring new programming languages and 
 
 ---
 
-<h2 align="center">My stats on Github</h2>
-<br/>
-
-<div align="center">
-  <a href="https://github.com/agoniapura">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=agoniapura&show_icons=true&theme=transparent"/>
-  </a>
-</div>
-
----
-
 <h2 align="center">Coding Languages that I like or use regularly</h2>
 <br/>
 
